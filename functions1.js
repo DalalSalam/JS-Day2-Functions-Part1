@@ -47,4 +47,4 @@ printName();
 printAge(2005);
 printAgeAndName(2005);
 printHello("Dalal", "en");
-printMax(4, 2, 8);
+printMax(4, 2);
